@@ -1,4 +1,1 @@
 
-
-time.strftime("%Y%m%d%H%M%S"),full_lux,ir_lux,vis_lux,temp_air,pressure,humidity
-time.strftime("%Y%m%d%H%M%S"),full_lux,ir_lux,vis_lux,temp_air,pressure,humidity
